@@ -1,6 +1,6 @@
 # Vesk
 
-A simple cash register app by Eraya.
+A simple cash register app by Erfan Huda.
 
 ## Getting Started
 
